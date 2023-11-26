@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "es.joseljg.ejemplosfirebase2223.app-merged_res-39:/drawable_avatar2.png.flat",
+        "source": "es.joseljg.ejemplosfirebase2223.app-main-41:/drawable/avatar2.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_mostrar_alumnos.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_mostrar_alumnos.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_detalles_alumno.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_detalles_alumno.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_mostrar_alumnos_firebase_ui.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_mostrar_alumnos_firebase_ui.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\drawable_avatar.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_add_alumno.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_add_alumno.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_activity_borrame.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\activity_borrame.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-merged_res-39:\\layout_item_rv_alumno.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\daemon\\7.5.1\\es.joseljg.ejemplosfirebase2223.app-main-41:\\layout\\item_rv_alumno.xml"
+    }
+]

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "es.joseljg.ejemplosfirebase2223.app-mergeDebugResources-37:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Program Files\\Android\\Android Studio2\\jre\\caches\\transforms-3\\43cc5ad19cb1c7acb71e36a759df9040\\transformed\\firebase-ui-auth-8.0.2\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,186,247,302,356,414",
+                        "endColumns": "69,60,60,54,53,57,56",
+                        "endOffsets": "120,181,242,297,351,409,466"
+                    }
+                }
+            ]
+        }
+    ]
+}
